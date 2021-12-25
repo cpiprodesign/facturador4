@@ -103,19 +103,3 @@ Recreación de documentos: [Guía](https://drive.google.com/file/d/1fD2-XN4eavBE
 Manual de cambios privados: [Guía](https://drive.google.com/file/d/1bUFNi6JmOB70MkfkA76lx37skF0b6LDv/view?usp=sharing "Clic")<br>
 Validador documentos: [Guía](https://drive.google.com/file/d/1Q8SblYp-fd1x30emqeNO6qPTx_XyjaJE/view?usp=sharing "Clic")<br>
 
-## Factura Perú
-
-[facturaperu.com.pe](http://facturaperu.com.pe "Clic")<br>
-soporte@facturaperu.com.pe<br>
-WhatsApp: 977860500<b>
-
-
-### Panel de cliente
-
-[URL](https://demo.e.facturaperu.com.pe "Clic")
-<br>
-Usuario: demo@facturaperu.com.pe<br>
-Contraseña: 123456
-
-### Software para grabar pantalla
-Contraseña: camtasia: [Descargar](https://drive.google.com/file/d/1lJ4N3whm9AMRmRl0oW-5ptf0uCx26Eek/view?usp=sharing "Clic")<br>
